@@ -1,0 +1,1 @@
+alert("Click the button to make me go away");
