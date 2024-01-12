@@ -44,11 +44,11 @@ body {
     color: #fff;
 }
 
-.menu li:hover ul{
-display: block;
-opacity: 1;
-/*While not being hovered, drop down menu hides This also avoids a block-level bug*/
-visibility: hidden;
+.menu li:hover ul {
+    display: block;
+    opacity: 1;
+    /*While not being hovered, drop down menu hides This also avoids a block-level bug*/
+    visibility: visible;
 }
 
 .submenu {
